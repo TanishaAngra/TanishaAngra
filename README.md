@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js, MongoDB**
 
-- 👨‍💻 My LinkedIn profile:- [https://www.linkedin.com/in/tanishaangra/](https://www.linkedin.com/in/tanishaangra/)
+- 👨‍💻 My LinkedIn profile:- [https://www.linkedin.com/in/tanishaangra](https://www.linkedin.com/in/tanishaangra)
 
 - 💬 Ask me about **React, Next.js, Python**
 
