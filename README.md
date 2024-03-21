@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tanisha Angra</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **Node.js, MongoDB**
 
 - 👨‍💻 My LinkedIn profile:- [https://www.linkedin.com/in/tanishaangra](https://www.linkedin.com/in/tanishaangra)
 
-- 💬 Ask me about **React, Next.js, Python**
+- 💬 Ask me about **Python, React.js, Flask, Next.js *
 
 - 📫 How to reach me **tanishaangra1511@gmail.com**
 
