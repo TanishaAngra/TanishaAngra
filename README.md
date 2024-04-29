@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tanisha Angra</h1>
-<h3 align="center">A passionate software developer from India</h3>
-
 
 - 👨‍💻 My LinkedIn profile:- [https://www.linkedin.com/in/tanishaangra](https://www.linkedin.com/in/tanishaangra)
 
