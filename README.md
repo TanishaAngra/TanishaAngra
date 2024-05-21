@@ -2,7 +2,7 @@
 
 - 👨‍💻 My LinkedIn profile:- [https://www.linkedin.com/in/tanishaangra](https://www.linkedin.com/in/tanishaangra)
 
-- 💬 Ask me about **Python, PowerBI, SQL, ReactJS *
+- 💬 Ask me about **Python SQL, ReactJS *
 
 - 📫 How to reach me **tanishaangra1511@gmail.com**
 
