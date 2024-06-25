@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **tanishaangra1511@gmail.com**
 
-- 📄 To learn more about my background and skills, view my resume here: [https://tinyurl.com/bdhr668h](https://tinyurl.com/bdhr668h)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
