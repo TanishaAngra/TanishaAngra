@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanisha Angra</h1>
-<h3 align="center">An enthusiastic engineering graduate with a specialization in information technology.</h3>
+<h3 align="center">Software Developer Trainee with practical experience in ASP.NET, .NET MAUI, and SQL Server. Skilled in database design, backend integration, and delivering high-quality, efficient software solutions. Focused on building scalable and reliable applications.</h3>
 
-- 💬 Ask me about **SQL, Python, Data Visualization, Web Development**
+- 💬 Ask me about **SQL, ASP.NET, C#, Web Development**
 
 - 📫 How to reach me **tanishaangra1511@gmail.com**
 
